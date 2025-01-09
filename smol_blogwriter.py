@@ -92,6 +92,7 @@ def write_blog_post(topic, output_file="blog_post.md"):
     1. First, research the topic thoroughly, focus on specific products and sources
     2. Then, write an engaging blog post not just a list
     3. Finally, edit and polish the content
+    4. Compose the content in thai language
     """)
     
     with open(output_file, 'w', encoding='utf-8') as f:
